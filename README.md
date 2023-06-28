@@ -17,10 +17,11 @@ Bu, Windows sistemlerinde USB sürücülerini izleyen ve erişimini engelleyen b
 2. Bir terminal açın ve `usb_sürücü_erişim_engelleyici.py` dosyasının bulunduğu dizine gidin.
 
 3. Aşağıdaki komutu kullanarak programı çalıştırın:
+```py usb-blocker.py```
 
-4. Program USB sürücülerini izlemeye başlayacak. Bir USB sürücüsü takıldığında, terminalde sürücünün erişilemez olduğunu ve USB sürücüsünün çıkarılması gerektiğini belirten bir mesaj görüntülenecektir. Program sürücüye erişimi engelleyecektir.
+5. Program USB sürücülerini izlemeye başlayacak. Bir USB sürücüsü takıldığında, terminalde sürücünün erişilemez olduğunu ve USB sürücüsünün çıkarılması gerektiğini belirten bir mesaj görüntülenecektir. Program sürücüye erişimi engelleyecektir.
 
-5. Programı durdurmak için terminalde Ctrl+C tuşlarına basın.
+6. Programı durdurmak için terminalde Ctrl+C tuşlarına basın.
 
 ## Notlar
 
