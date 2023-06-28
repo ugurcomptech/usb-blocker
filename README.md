@@ -18,7 +18,7 @@ Bu, Windows sistemlerinde USB sürücülerini izleyen ve erişimini engelleyen b
 
 3. Aşağıdaki komutu kullanarak programı çalıştırın:
 ```shell
-   py usb-blocker.py
+   python usb-blocker.py
 ```
 4. Program USB sürücülerini izlemeye başlayacak. Bir USB sürücüsü takıldığında, terminalde sürücünün erişilemez olduğunu ve USB sürücüsünün çıkarılması gerektiğini belirten bir mesaj görüntülenecektir. Program sürücüye erişimi engelleyecektir.
 
