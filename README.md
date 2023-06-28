@@ -20,9 +20,9 @@ Bu, Windows sistemlerinde USB sürücülerini izleyen ve erişimini engelleyen b
 ```shell
    py usb-blocker.py
 ```
-5. Program USB sürücülerini izlemeye başlayacak. Bir USB sürücüsü takıldığında, terminalde sürücünün erişilemez olduğunu ve USB sürücüsünün çıkarılması gerektiğini belirten bir mesaj görüntülenecektir. Program sürücüye erişimi engelleyecektir.
+4. Program USB sürücülerini izlemeye başlayacak. Bir USB sürücüsü takıldığında, terminalde sürücünün erişilemez olduğunu ve USB sürücüsünün çıkarılması gerektiğini belirten bir mesaj görüntülenecektir. Program sürücüye erişimi engelleyecektir.
 
-6. Programı durdurmak için terminalde Ctrl+C tuşlarına basın.
+5. Programı durdurmak için terminalde Ctrl+C tuşlarına basın.
 
 ## Notlar
 
